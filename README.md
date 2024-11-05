@@ -1,3 +1,5 @@
+# SOC Analyst Challenge
+
 ## Day - 1 - Schematic diagram
 ![Untitled Diagram](https://github.com/user-attachments/assets/d5285388-57e1-490c-a300-d90b0f3330a4)
 ## Day - 2 - Introduction to ELK slack
